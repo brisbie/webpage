@@ -1,0 +1,17 @@
+#wrapper{
+  max-width: fit-content;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10%;
+  text-align: center;
+}
+
+body{
+  font-family: "IBM Plex Mono", regular ;
+  background-color: white;
+}
+
+img{
+  height: auto;
+  width: 250px;
+}
